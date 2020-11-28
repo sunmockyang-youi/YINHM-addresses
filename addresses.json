@@ -3,5 +3,11 @@
         "appName": "RNSampleApp",
         "appVersion": "5.8.0",
         "address": "https://support-monitor.youi.tv/YINHM/log"
+    },
+    
+    {
+        "appName": "Phoenix",
+        "appVersion": "5.0.0",
+        "address": "https://support-monitor.youi.tv/YINHM/log"
     }
 ]
