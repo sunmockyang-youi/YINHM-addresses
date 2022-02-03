@@ -9,5 +9,11 @@
         "appName": "Phoenix",
         "appVersion": "5.0.0",
         "address": "https://support-monitor.youi.tv/YINHM/log"
+    },
+    
+    {
+        "appName": "Phoenix",
+        "appVersion": "Roku_5.9.0_in_market_YINHM",
+        "address": "http://192.168.0.14:8080/YIHMN/log"
     }
 ]
