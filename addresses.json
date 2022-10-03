@@ -15,5 +15,11 @@
         "appName": "Phoenix",
         "appVersion": "Roku_5.9.0_in_market_YINHM",
         "address": "http://ec2-35-87-29-126.us-west-2.compute.amazonaws.com:8080/YIHMN/log"
+    },
+    
+    {
+        "appName": "MediaKind",
+        "appVersion": "6.4.0",
+        "address": "http://192.168.0.100:8080/YIHMN/log"
     }
 ]
